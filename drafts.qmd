@@ -4,3 +4,4 @@ pagetitle: "drafts"
 title-block-style: none
 ---
 
+[https://philpapers.org/archive/CARMFI.pdf](Modeling Future Indeterminacy in Possibility Semantics)
