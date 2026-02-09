@@ -14,7 +14,7 @@ title-block-style: none
 :::
 
 ::: {.column width="50%"}
-![Fabrizio Cariani speaking at a conference](cariani-front2.jpg){width=60% .rounded-circle .shadow}
+![](cariani-front2.jpg){width=60% .rounded-circle .shadow .shadow style="margin-left: 5rem;"}
 :::
 :::
 

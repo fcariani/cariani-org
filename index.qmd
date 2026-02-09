@@ -7,9 +7,6 @@ title-block-style: none
 ::: columns
 ::: {.column width="65%"}
 
-<!--
-## Professor and Chair of Philosophy
--->
 
 I am a philosopher at the University of Maryland, College Park, where I serve as chair of the Philosophy Department. I am interested in meaning, uncertainty, agency, modality, collective attitudes, the future, explanation, chance, mathematics, decisions, rationality, artificial intelligence, and more.
 
@@ -17,7 +14,7 @@ I can't write on everything in that list. I study modal language and thought to 
 
 :::
 ::: {.column width="35%"}
-![Portrait of Fabrizio Cariani](cariani-konstanz2.jpeg){width=85% .rounded-circle .shadow}
+![](cariani-konstanz2.jpeg){width=85% .rounded-circle .shadow style="margin-left: 2rem;"}
 :::
 :::
 

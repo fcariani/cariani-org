@@ -6,7 +6,7 @@ title-block-style: none
 
 ::: columns
 ::: {.column width="50%"}
-![Portrait of Fabrizio Cariani](cariani-pensive.jpeg){width=100% .rounded-3 .shadow}
+![](cariani-pensive.jpeg){width=100% .rounded-3 .shadow}
 :::
 
 ::: {.column width="50%" style="padding-left:1rem;"}
