@@ -4,4 +4,12 @@ pagetitle: "drafts"
 title-block-style: none
 ---
 
-[https://philpapers.org/archive/CARMFI.pdf](Modeling Future Indeterminacy in Possibility Semantics)
+[Modeling Future Indeterminacy in Possibility Semantics](https://philpapers.org/archive/CARMFI.pdf)
+
+*What would happen if instead of building semantics for the open future in terms of overlapping complete possible worlds, we did so on the basis of evolving incomplete possibilities?*
+
+### Coming soon
+
+Temporal Symmetries of Inquiry. (with Nate Lauffer)
+
+From Modal Logic to Modal Semantics. (commissioned for the Cambridge Handbook of Modality, Arregui, Hacquard and Ippolito eds.)

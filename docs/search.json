@@ -4,7 +4,7 @@
     "href": "bio.html",
     "title": "Fabrizio Cariani",
     "section": "",
-    "text": "I grew up in Rome, Italy. After graduating in Philosophy from the University of Bologna (2003), I completed a PhD in Logic and the Methodology of Science at UC Berkeley (2009).\nIn Bologna, I studied with Eva Picardi and wrote a (probably not very good) undergraduate thesis on Frege’s Context Principle. At Berkeley, I wrote a dissertation on deontic modality, which was advised by John MacFarlane (chair), Branden Fitelson, and Niko Kolodny. I also learned much from Paolo Mancosu and Sherri Roush, as well as from my fellow graduate students, Mike Caie, Kenny Easwaran, and Mike Titelbaum.\nI began my career as an assistant professor at Northwestern in the Fall of 2009. Steph Curry began his with the Warriors at the same time, and he’s going to retire before I do. I earned tenure at Northwestern in 2016. As of 2020, I am on the Philosophy faculty at UMD, where I became department chair in 2024.\nI live in Washington, DC, with my spouse and two children."
+    "text": "I grew up in Rome, Italy. After graduating in Philosophy from the University of Bologna (2003), I completed a PhD in Logic and the Methodology of Science at UC Berkeley (2009).\nIn Bologna, I studied with Eva Picardi and wrote a (probably not very good, but I’m not going to double check) undergraduate thesis on Frege’s Context Principle. At Berkeley, I wrote a dissertation on deontic modality, which was advised by John MacFarlane (chair), Branden Fitelson, and Niko Kolodny. I also learned much from Paolo Mancosu and Sherri Roush, as well as from my fellow graduate students, Mike Caie, Kenny Easwaran, and Mike Titelbaum.\nI began my career as an assistant professor at Northwestern in the Fall of 2009. Steph Curry began his with the Warriors at the same time, and he’s going to retire before I do. I earned tenure at Northwestern in 2016. As of 2020, I am on the Philosophy faculty at UMD, where I became department chair in 2024.\nI live in Washington, DC, with my spouse and two children."
   },
   {
     "objectID": "contacts.html",
@@ -60,7 +60,7 @@
     "href": "credits.html",
     "title": "Fabrizio Cariani",
     "section": "",
-    "text": "This website was built with Quarto, which in turn I could only navigate in a time-efficient manner because of the help of an LLM.\nI owe the original impulse towards this design to my colleague Eric Pacuit.\nThe photos on the homepage and the presentations page are by Natasha Korotkova. They were taken respectively in 2022 in Konstanz, and at the 2024 Amsterdam Colloquium.\nThe pensive photo on my contact page was taken by Jessica Collins at the 2025 Pacific APA in San Francisco.\nI’m forever grateful to my amazing co-authors. In reverse chronological order, Paolo Santorio, Alexis Wellwood, Lance Rips, Nicholas Leonard, Simon Goldstein, Ray Briggs, Kenny Easwaran, Branden Fitelson, Magda Kaufmann, Stefan Kaufmann, Marc Pauly and Josh Snyder."
+    "text": "This website was built with Quarto, which in turn I could only navigate in a time-efficient manner because of the help of an LLM.\nI owe the original impulse towards this design to my colleague Eric Pacuit.\nThe photos on the homepage and the presentations page are by Natasha Korotkova. They were taken respectively in 2022 in Konstanz, and at the 2024 Amsterdam Colloquium.\nThe pensive photo on my contact page was taken by Jessica Collins at the 2025 Pacific APA in San Francisco.\nI’m forever grateful to my many brilliant co-authors. In reverse chronological order, Nate Lauffer Paolo Santorio, Alexis Wellwood, Lance Rips, Nicholas Leonard, Simon Goldstein, Ray Briggs, Kenny Easwaran, Branden Fitelson, Magda Kaufmann, Stefan Kaufmann, Marc Pauly and Josh Snyder."
   },
   {
     "objectID": "cv.html",
@@ -74,6 +74,6 @@
     "href": "drafts.html",
     "title": "Fabrizio Cariani",
     "section": "",
-    "text": "https://philpapers.org/archive/CARMFI.pdf"
+    "text": "Modeling Future Indeterminacy in Possibility Semantics\nWhat would happen if instead of building semantics for the open future in terms of overlapping complete possible worlds, we did so on the basis of evolving incomplete possibilities?\n\nComing soon\nTemporal Symmetries of Inquiry. (with Nate Lauffer)\nFrom Modal Logic to Modal Semantics. (commissioned for the Cambridge Handbook of Modality, Arregui, Hacquard and Ippolito eds.)"
   }
 ]
