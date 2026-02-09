@@ -1,0 +1,89 @@
+---
+title: ""
+pagetitle: "Fabrizio Cariani"
+title-block-style: none
+---
+
+::: columns
+::: {.column width="65%"}
+
+<!--
+## Professor and Chair of Philosophy
+-->
+
+I am a philosopher at the University of Maryland, College Park, where I serve as chair of the Philosophy Department. I am interested in meaning, uncertainty, agency, modality, collective attitudes, the future, explanation, chance, mathematics, decisions, rationality, artificial intelligence, and more.
+
+I can't write on everything in that list. I study modal language and thought to understand how we interpret, convey, and deploy information that goes beyond immediate experience. I have open projects on intention revision and creativity in artificial intelligence, temporal symmetries of inquiry, and reason-based semantics for normative language.
+
+:::
+::: {.column width="35%"}
+![Portrait of Fabrizio Cariani](cariani-konstanz2.jpeg){width=85% .rounded-circle .shadow}
+:::
+:::
+
+<!-- --- -->
+
+::: {.callout-tip .text-center title="Full publications list"}
+[PhilPeople](https://philpeople.org/profiles/fabrizio-cariani) ![Philpapers logo](philpaperslogo.png){width=3%}
+:::
+
+<!-- #### [Full publications list → PhilPeople](https://philpeople.org/profiles/fabrizio-cariani) -->
+
+<!-- *** -->
+
+::: columns
+::: {.column width="50%"}
+### 📌 Recent Publications
+
+
+1. **[Normative Credences Are Not Classical](https://philpapers.org/rec/CARNCA-10)**.  
+    Forthcoming in *Analysis* 
+
+
+2. **[Anankastic Conditionals and the Default Theory of Reasons](https://philarchive.org/archive/CARACA-22)**    
+   *Forthcoming in Linguistics & Philosophy*  
+
+3. **[Intention Reconsideration in Artificial Agents: A Structured Account](https://philpapers.org/rec/CARIRI-5)**   
+   *Philosophical Studies, 2024*  
+
+4. **[Confidence Reports](https://semprag.org/index.php/sp/article/view/sp.17.14/3103)**  (with P. Santorio & A. Wellwood)  
+   *Semantics & Pragmatics, 2024*  
+
+5. **[Experimenting with (Conditional) Perfection](https://philpapers.org/archive/CAREWC.pdf)** (with L. Rips) 
+   *Conditionals: Logic, Semantics, Psychology*  
+    (Kaufmann, Over & Sharma, eds.), 2023  
+
+6. **[Human Foreknowledge](https://philpapers.org/archive/CARHF-2.pdf)**  
+   *Philosophical Perspectives, 2021*  
+
+
+:::
+
+::: {.column width="50%"}
+### ⭐ Selected Publications
+
+1. **[The Modal Future](https://www.cambridge.org/core/books/modal-future/8C73F378DAF8A9C20DDBA54E46D95982)**   (book)
+   *Cambridge University Press, 2021*  
+
+2. **[Conditional Heresies](https://philpapers.org/archive/CARCH-5.pdf)** (with S. Goldstein)  
+   *PPR*, 2020 
+
+3. **[*Will* Done Better: Selection Semantics, Future Credence and Indeterminacy](https://philpapers.org/archive/CARWDB-6.pdf)**  (with P. Santorio) 
+   *Mind*, 2018  
+
+4. **[Consequence and Contrast in Deontic Semantics](https://philpapers.org/archive/CARCAC-19.pdf)** *Journal of Philosophy*, 2016
+
+5. **[Deontic Modals and Probabilities: One Theory to Rule Them All?](https://philpapers.org/archive/CARDMA-5.pdf)**  
+   In *Deontic Modality* (Charlow & Chrisman eds.)
+   OUP, 2016
+
+6. **[*Ought* and Resolution Semantics](https://philpapers.org/archive/CAROAR-2.pdf)** 
+   *Noûs*, 2013
+   
+7. **[Decision Framing in Judgment Aggregation](http://cariani.org/files/DFJA.cariani.pdf)**  (with M. Pauly and J. Snyder)
+   *Synthese*, 2008
+
+
+
+:::
+:::

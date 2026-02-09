@@ -1,0 +1,27 @@
+---
+title: ""
+pagetitle: "Contact"
+title-block-style: none
+---
+
+::: columns
+::: {.column width="50%"}
+![Portrait of Fabrizio Cariani](cariani-pensive.jpeg){width=100% .rounded-3 .shadow}
+:::
+
+::: {.column width="50%" style="padding-left:1rem;"}
+
+
+1125 Skinner Building  
+
+[Department of Philosophy](https://philosophy.umd.edu)  
+[College of Arts and Humanities](https://arhu.umd.edu)  
+[University of Maryland](https://umd.edu)
+
+fabrizio@umd.edu
+
+I have an office phone, but please don't call me there. 
+Unless you want to make a donation to the philosophy department.
+In which case, please do.  
+:::
+:::

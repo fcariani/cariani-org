@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "a1e33cdf"
+  },
+  "cv.qmd": {
+    "cv.html": "a5a8be15"
+  },
+  "talklog.qmd": {
+    "talklog.html": "24cceaa9"
+  },
+  "credits.qmd": {
+    "credits.html": "aaa576dd"
+  },
+  "myinfo.qmd": {
+    "myinfo.html": "b2cb4460"
+  },
+  "contacts.qmd": {
+    "contacts.html": "6d58ca60"
+  },
+  "trash.md": {
+    "trash.html": "e2a008fc"
+  },
+  "teaching.qmd": {
+    "teaching.html": "2107ff98"
+  },
+  "bio.qmd": {
+    "bio.html": "34c0265f"
+  }
+}

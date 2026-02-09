@@ -1,0 +1,345 @@
+---
+title: ""
+pagetitle: "Presentations"
+title-block-style: none
+---
+
+::: columns
+::: {.column width="50%"}
+
+*Talks I've given,  grouped by the title of the paper they ended up associated with.  Talk titles and content sometimes varied.*
+
+*I don't know why academic CV's have to record past talks, but I enjoy the memories of these events.*
+
+:::
+
+::: {.column width="50%"}
+![Fabrizio Cariani speaking at a conference](cariani-front2.jpg){width=60% .rounded-circle .shadow}
+:::
+:::
+
+
+***
+
+#### *Temporal Symmetries of Inquiry*
+
+★ Eastern APA (1/2026)
+
+***
+
+
+
+#### *Normative Credences Are Not Classical*
+
+★ Pacific APA 2025, San Francisco (04/2025)  
+★ Formal Ethics 2024, University of Greifswald (07/2024)
+
+***
+
+#### *Anankastic Conditionals and the Default Theory of Reasons*
+
+★ PhLiP 2024, Tarrytown (11/2024)  
+★ UConn Logic Group, Storrs, Connecticut (09/2024)  
+★ World Congress of Philosophy, Rome (08/2024)  
+★ University of Padova (03/2024)  
+★ SILT (NYU) (05/2023)
+
+***
+
+#### *Modeling Future Indeterminacy in Possibility Semantics*
+
+★ University of Torino, Center in Logic, Language and Cognition (02/2022)  
+★ European Congress of Analytic Philosophy, Vienna (08/2023)
+
+***
+
+#### *Positive Gradable Adjective Ascriptions with States, not Degrees*
+
+★ *Sinn und Bedeutung* (09/2022, presented online; conference in Prague)
+
+***
+
+#### *Evidential Grounding Everywhere*
+
+★ Philosophy of Language Workshop, Berlin (07/2022)  
+★ Philosophy of Language and Linguistics Conference, Dubrovnik (09/2022)  
+★ Acquaintance Inference Workshop, Konstanz (10/2022)  
+★ Amsterdam Colloquium (12/2022)  
+★ Online Work in Progress Series (04/2023)
+
+***
+
+#### *The Shadow of Causality in Language*
+
+★ CLC Causality Conference, Washington, DC (06/2022)
+
+***
+
+#### *Human Foreknowledge*
+
+★ UMD Work in Progress Group (10/2020)  
+★ MCMP Logic Colloquium (12/2020)
+
+***
+
+#### *Indirect Evidence and Foreknowledge*
+
+★ UMD Work in Progress Group (03/2020)  
+★ Jowett Society, Oxford University (02/2020)  
+★ Logic of Conceivability Seminar, ILLC Amsterdam (12/2019)  
+★ PRIN Conference *Il problema dell’indeterminatezza: Chance, Future, Contingency*,  
+  Università di Venezia, Ca’ Foscari (12/2019)
+
+***
+
+#### *Conditionals in Selection Semantics*
+
+★ Amsterdam Colloquium (12/2019)  
+★ Hans Kamp Seminar, University of Texas at Austin (03/2018)
+
+***
+
+#### *The Modal Future*
+
+★ Pacific APA, Vancouver (04/2019)  
+★ Philosophy Colloquium, Tufts University (03/2019)  
+★ Philosophy Colloquium, University of Maryland, College Park (02/2019)
+
+***
+
+#### *On Predicting*
+
+★ Philosophy Colloquium, Northern Illinois University (04/2019)  
+★ King’s College London (03/2017)
+
+***
+
+#### *Experimenting with (Conditional) Perfection*
+
+★ SemBabble, UCSD (03/2019)  
+★ Northwestern University, PhLing (11/2016)  
+★ Invited session on Experimental Semantics, Pacific APA (04/2016)
+
+***
+
+#### *Assertion and the Future*
+
+★ Philosophy Colloquium, University of North Carolina, Chapel Hill (11/2018)  
+★ Workshop on the Philosophy of Information, Shanghai University (08/2018)  
+★ Philosophy Colloquium, University of Texas (03/2018)
+
+***
+
+#### *Confidence Reports*
+
+★ World Congress of Philosophy, Beijing (08/2018)  
+★ PhLiP, Tarrytown, NY (10/2017)  
+★ Workshop on States in Semantics, Northwestern University (05/2017)
+
+***
+
+#### *Conditional Heresies*
+
+★ Mind & Language Seminar, University of Southern California (03/2018)  
+★ LENLS 14, Tokyo (11/2017)  
+★ Amsterdam Colloquium (12/2017)
+
+***
+
+#### *Collective Reasons*
+
+★ Invited session on Group Epistemology, Eastern APA (01/2018)
+
+***
+
+#### *Normative Uncertainty and Relative Truth*
+
+★ DEthiX, UC Davis (04/2017)
+
+***
+
+#### *How to Talk about the Future*
+
+★ University of Illinois, Chicago (10/2016)  
+★ Italian Society for Analytic Philosophy (09/2016)  
+★ New York Philosophy of Language Discussion Group (04/2016)
+
+***
+
+#### *Consequence and Contrast in Deontic Semantics*
+
+★ Symposium paper, Eastern APA (01/2016)
+
+***
+
+#### *Will Done Better: Selection Semantics, Future Credence, and Indeterminacy*
+
+★ Central APA, Chicago (03/2016)  
+★ Amsterdam Colloquium (12/2015)  
+★ University of Chicago, Workshop on Nonveridical Expressions (12/2015)  
+★ LENLS 12, Tokyo (11/2015)  
+★ Australasian Association of Philosophy (06/2015)
+
+***
+
+#### *Predictions and Modality*
+
+★ University of Michigan, Linguistics & Philosophy Working Group (02/2015)  
+★ Arché Centre, University of St Andrews (11/2014)  
+★ University of Leeds, Non-standard Modals Workshop (11/2014)  
+★ University of Chicago, Linguistics & Philosophy Workshop (10/2014)  
+★ Fourth Parma Workshop in Semantics (09/2014)  
+★ Philosophy of Language and Linguistics Conference, Dubrovnik (09/2014)
+
+***
+
+#### *Local Supermajorities*
+
+★ Formal Epistemology Workshop, St. Louis (05/2015)  
+★ Rutgers University, Branden Fitelson’s Epistemology Seminar (10/2014)
+
+***
+
+#### *Reason-Based Theories of “Better”*
+
+★ Chicagoland Graduate Conference, Keynote, UIC (03/2014)  
+★ Syracuse University (02/2014)
+
+***
+
+#### *Conditionals, Context and the Suppression Effect* (with L. Rips)
+
+★ Philosophy of Language and Linguistics Conference, Dubrovnik (09/2013)
+
+***
+
+#### *Deontic Modals and Probabilities: One Theory to Rule Them All?*
+
+★ SALT 24, NYU (poster) (05/2014)  
+★ USC Deontic Modality Conference (poster) (05/2013)  
+★ Northwestern University, Deontic Modality Workshop (04/2013)  
+★ Pacific APA, San Francisco (03/2013)  
+★ MIT, Deontic Modals and Imperatives Seminar (10/2012)  
+★ Rutgers Semantics Workshop (09/2012)  
+★ University of Maryland, College Park, Philosophy Colloquium (09/2012)  
+★ Georgetown University, Linguistics Department (05/2012)
+
+***
+
+#### *Why Deliberate?*
+
+★ UW Madison, Formal Epistemology Meeting (04/2014)  
+★ Lund Conference in Social Epistemology (12/2012)  
+★ University of Kentucky, Philosophy Colloquium (11/2012)
+
+***
+
+#### *From Floating Conclusions to the Doctrinal Paradox (and Back Again)*
+
+★ Invited speaker, DEON 2012 (07/2012)
+
+***
+
+#### *The Subjective/Objective Ambiguity: What it Can and Can’t Do For You*
+
+★ Central APA, Invited Symposium on Deontic Modals (02/2012)
+
+***
+
+#### *Deliberative Modality under Epistemic Uncertainty* (with M. Kaufmann & S. Kaufmann)
+
+★ University of Amsterdam, DIP Colloquium (06/2011)
+
+***
+
+#### *The Miners Variations*
+
+★ *Another World Is Possible*, Urbino (06/2011)  
+★ University of Wisconsin–Madison, Philosophy Colloquium (03/2011)  
+★ University of Chicago, Workshop in Semantics and Philosophy of Language (02/2011)
+
+***
+
+#### *Mathematical Induction and Explanatory Value in Mathematics*
+
+★ Central APA, Minneapolis (03/2011)  
+★ University of Chicago, Formal Philosophy Workshop (11/2010)  
+★ Descartes Lecture Conference, Tilburg (10/2010)
+
+***
+
+#### *Collective Reasons via Judgment Aggregation*
+
+★ Workshop on Voting Methods and Judgment Aggregation, Freudenstadt (09/2011)  
+★ Formal Epistemology Workshop, University of Southern California (05/2011)  
+★ Tilburg University (09/2010)
+
+***
+
+#### *Geach’s Puzzle and Williams’ Gambit*
+
+★ Cogito Seminar, University of Bologna (06/2010)  
+★ PhLing, Northwestern University (04/2010)
+
+***
+
+#### *“Ought” Is Not a Box*
+
+★ University of Chicago (02/2009)  
+★ Barnard College (02/2009)  
+★ Northwestern University (01/2009)  
+★ Boston University (01/2009)  
+★ Semantics and Philosophy in Europe Colloquium, Paris (05/2008)  
+★ ANU, Research School of Social Sciences (08/2007)
+
+***
+
+#### *Aggregation Rules and Epistemic Norms*
+
+★ Society for Exact Philosophy, Kansas City (03/2010)  
+★ Epistemology Brownbag, Northwestern University (12/2009)  
+★ Australasian Association of Philosophy, Melbourne (07/2008)  
+★ Berkeley–London Graduate Student Conference (05/2008)  
+★ Centre for Time, University of Sydney (08/2007)
+
+***
+
+#### *Formal Analyses of Normativity*
+
+★ Arché Centre, University of St Andrews (03/2009)
+
+***
+
+#### *Disjunctive Obligations and Implicature*
+
+★ Pacific APA, Pasadena (03/2008)  
+★ La Trobe University (08/2007)  
+★ Australasian Association of Philosophy, Armidale (07/2007)  
+★ Logica 2007, Hejnice (06/2007)
+
+***
+
+#### *Truth in a Corpus*
+
+★ Society for Exact Philosophy, University of British Columbia (05/2007)
+
+***
+
+#### *Decision Framing in Judgment Aggregation*
+
+★ Invited symposium, Pacific APA, San Francisco (03/2007)  
+★ Cowles Foundation Workshop, Yale University (09/2006)  
+★ LOFT 2006, University of Liverpool (07/2006)  
+★ Berkeley–Stanford Logic Workshops (05/2006)
+
+***
+
+#### *On the Language-Dependence of Distance-Based Aggregation Procedures*
+
+★ Invited talk, Marc Pauly’s seminar, Stanford University (02/2006)
+
+***
+
+#### *Do Plural Quantifiers Commit Us to Classes?*
+
+★ CUNY Graduate Student Logic Conference (09/2004)

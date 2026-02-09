@@ -1,0 +1,56 @@
+/* Load a readable serif */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
+
+body {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;          /* optional: slightly larger */
+  line-height: 1.55;           /* optional: more readable */
+}
+
+/* Optional: keep headings in the same serif */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+
+/* Widen the main content area */
+.container,
+.container-lg,
+.container-xl {
+  max-width: 1400px;
+}
+
+:root {
+  --content-width: 1400px;
+}
+
+@media (min-width: 992px) {
+  /* Constrain navbar inner content to the same width as the page content */
+  #quarto-header .navbar .container,
+  #quarto-header .navbar .container-fluid,
+  #quarto-header .navbar .navbar-container,
+  #quarto-header .quarto-navbar .container,
+  #quarto-header .quarto-navbar .container-fluid,
+  #quarto-header .quarto-navbar .navbar-container {
+    max-width: var(--content-width, 1400px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+@media (min-width: 992px) {
+  #quarto-header .navbar-collapse {
+    max-width: var(--content-width, 1400px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+/* .center-box {
+  max-width: 500px;
+  margin: 2rem auto;     /* centers horizontally */
+  padding: 1rem 1.25rem;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  background-color: #fafafa;
+} */
