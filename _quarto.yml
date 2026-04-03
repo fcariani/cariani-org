@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+  - files/**
 
 website:
   title: "Fabrizio Cariani"
@@ -30,3 +32,5 @@ format:
   html:
     theme: flatly
     css: styles.css
+
+    
