@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-  - files/**
+  - davis.pdf
 
 website:
   title: "Fabrizio Cariani"
