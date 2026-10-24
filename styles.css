@@ -1,81 +1,96 @@
-/* Load a readable serif */
+/* =========================================
+   Typography
+   ========================================= */
+
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
 
 body {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  font-size: 1.05rem;          /* optional: slightly larger */
-  line-height: 1.55;           /* optional: more readable */
+  font-size: 1.05rem;
+  line-height: 1.55;
 }
 
-/* Optional: keep headings in the same serif */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
 }
 
-/* Widen the main content area */
-.container,
-.container-lg,
-.container-xl {
-  max-width: 1400px;
-}
+
+/* =========================================
+   Page width
+   ========================================= */
 
 :root {
   --content-width: 1400px;
 }
 
-@media (min-width: 992px) {
-  /* Constrain navbar inner content to the same width as the page content */
+.container,
+.container-lg,
+.container-xl {
+  max-width: var(--content-width);
+}
+
+
+/* =========================================
+   Desktop navigation alignment
+   ========================================= */
+
+@media screen and (min-width: 992px) {
+
   #quarto-header .navbar .container,
   #quarto-header .navbar .container-fluid,
   #quarto-header .navbar .navbar-container,
   #quarto-header .quarto-navbar .container,
   #quarto-header .quarto-navbar .container-fluid,
-  #quarto-header .quarto-navbar .navbar-container {
-    max-width: var(--content-width, 1400px) !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
-}
-
-@media (min-width: 992px) {
+  #quarto-header .quarto-navbar .navbar-container,
   #quarto-header .navbar-collapse {
-    max-width: var(--content-width, 1400px) !important;
+    max-width: var(--content-width) !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
+
 }
 
-/* .center-box {
-  max-width: 500px;
-  margin: 2rem auto;     /* centers horizontally */
-  padding: 1rem 1.25rem;
-  text-align: center;
-  border: 1px solid #ddd;
-  border-radius: 0.5rem;
-  background-color: #fafafa;
-} */
 
-/* Stack CV columns vertically on mobile */
-@media (max-width: 768px) {
-  .cv-responsive {
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 0.5rem;
-  }
+/* =========================================
+   Responsive CV layout
+   ========================================= */
 
-  .cv-responsive > .column {
+/* Desktop: retain Quarto's two-column layout. */
+
+/* Mobile: stack section headings above content. */
+
+@media screen and (max-width: 768px) {
+
+  div.columns.cv-responsive {
+    display: block !important;
     width: 100% !important;
     max-width: 100% !important;
-    flex: 0 0 auto !important;
-  }
-}
-
-@media (max-width: 768px) {
-  .cv-responsive > .column:first-child p {
-    margin-bottom: 0.25rem;
+    gap: 0 !important;
   }
 
-  .cv-responsive > .column:last-child ul {
+  div.columns.cv-responsive > div.column {
+    display: block !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    overflow-x: visible !important;
+  }
+
+  /* Space between section heading and content. */
+
+  div.columns.cv-responsive > div.column:first-child {
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Keep lists comfortably indented on mobile. */
+
+  div.columns.cv-responsive > div.column:last-child ul,
+  div.columns.cv-responsive > div.column:last-child ol {
     padding-left: 1.5rem;
   }
+
 }
