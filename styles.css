@@ -54,3 +54,28 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0.5rem;
   background-color: #fafafa;
 } */
+
+/* Stack CV columns vertically on mobile */
+@media (max-width: 768px) {
+  .cv-responsive {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5rem;
+  }
+
+  .cv-responsive > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 auto !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .cv-responsive > .column:first-child p {
+    margin-bottom: 0.25rem;
+  }
+
+  .cv-responsive > .column:last-child ul {
+    padding-left: 1.5rem;
+  }
+}

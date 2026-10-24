@@ -4,7 +4,8 @@ pagetitle: "Fabrizio Cariani – Curriculum Vitae"
 title-block-style: none
 ---
 
-::: columns
+
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **EMPLOYMENT**
 :::
@@ -29,10 +30,11 @@ title-block-style: none
 
 ---
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **EDUCATION**
 :::
+
 
 ::: {.column width="80%"}
 **University of California, Berkeley**  
@@ -44,7 +46,7 @@ B.A. in Philosophy, *cum laude* *(2003)*
 :::
 ---
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **SPECIALIZATIONS**
 :::
@@ -54,7 +56,8 @@ Philosophy of Language; Epistemology; Philosophical Logic.
 :::
 :::
 
-::: columns
+
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **COMPETENCIES**
 :::
@@ -66,7 +69,7 @@ Cognitive Science; Decision Theory and Social Choice Theory; Mathematical Logic;
 
 ---
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **RESEARCH AWARDS**
 :::
@@ -84,7 +87,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 
 ---
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **TEACHING AWARDS**
 :::
@@ -99,7 +102,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 ***
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **PUBLICATIONS**
 :::
@@ -109,7 +112,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 :::
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **BOOKS**
 :::
@@ -125,7 +128,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **ARTICLES**
 :::
@@ -133,10 +136,10 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 ::: {.column width="80%"}
 
 2. **[Anankastic Conditionals and the Default Theory of Reasons](https://philarchive.org/archive/CARACA-22)**.  
-    Forthcoming in *Linguistics and Philosophy*.
+    *Linguistics and Philosophy*, 49, pp. 405–435, 2026.
 
 1. **[Normative Credences Are Not Classical](https://philpapers.org/rec/CARNCA-10)**.  
-    Forthcoming in *Analysis*.
+    *Analysis*, 86(3) pp. 493–503, 2026.
 
 1. **[Future Displacement and Modality](https://philpapers.org/rec/CARFDA-4)**.  
     In *Oxford Handbook of Contemporary Philosophy of Language*  
@@ -250,7 +253,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **CONFERENCE PROCEEDINGS**
 :::
@@ -282,7 +285,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **REVIEWS**
 :::
@@ -305,7 +308,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **IN ITALIAN**
 :::
@@ -318,7 +321,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 :::
 
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **EDITED PROCEEDINGS**
 :::
@@ -334,7 +337,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 
 ***
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **VISITING**
 :::
@@ -356,7 +359,7 @@ Visiting Student in the Philosophy Program
 
 ***
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **EDITORIAL ACTIVITY**
 :::
@@ -375,7 +378,7 @@ Visiting Student in the Philosophy Program
 
 ***
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **REVIEWING**
 :::
@@ -425,7 +428,7 @@ Visiting Student in the Philosophy Program
 :::
 :::
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **ORGANIZING**
 :::
@@ -461,7 +464,7 @@ UC Berkeley Townsend Center Working Group in
 :::
 :::
 
-::: columns
+::: {.columns .cv-responsive}
 ::: {.column width="20%"}
 **UNIVERSITY SERVICE**
 :::
