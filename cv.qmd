@@ -268,7 +268,7 @@ Co-winner of a $175,000 grant (with Sanford Goldberg and Jennifer Lackey, Northw
 
 1. *Positive gradable adjective ascriptions with states, not degrees*  
     (with Paolo Santorio & Alexis Wellwood).  
-    Forthcoming in *Proceedings of Sinn und Bedeutung 2022*.
+    In *Proceedings of Sinn und Bedeutung 2022*.
 
 1. **[Conditionals in Selection Semantics](http://cariani.org/files/CSS.AC.2019.pdf)**.  
     *Proceedings of the 2019 Amsterdam Colloquium*.
@@ -368,7 +368,8 @@ Visiting Student in the Philosophy Program
 
 **Editorships and Editorial Boards**
 
-- *Linguistics and Philosophy*, Editorial Board Member *(2019– )*.
+- *Oxford Studies in Philosophy of AI and Computing*, Advisory Editorial Board member *(2026-)*
+- *Linguistics and Philosophy*, Editorial Board member *(2019– )*.
 - *Philosophers’ Imprint*, Editor *(2018–2024)*.
 
 
@@ -445,9 +446,9 @@ Visiting Student in the Philosophy Program
 **Program Committee Member**
 
 AIES *(2021)*;  
-Formal Approaches to Rationality and Meaning (FARM) *(2025)*;  
+Formal Approaches to Rationality and Meaning (FARM) *(2025, 2026)*;  
 Formal Ethics *(2020, 2024)*;  
-Amsterdam Colloquium *(2019, 2022)*;  
+Amsterdam Colloquium *(2019, 2022, 2026)*;  
 Central APA *(2015, 2018)*;  
 SALT *(2016–2019)*;  
 DEON *(2016, 2018, 2023)*;  
@@ -474,7 +475,7 @@ UC Berkeley Townsend Center Working Group in
 **Main Departmental Roles**
 
 - **Department Chair**, University of Maryland *(2024– )*
-- **BA in AI Design Committee**, University of Maryland *(2023– )*
+- **BA in AI Design Committee**, University of Maryland *(2023–2026)*
 - **Director of Graduate Studies**, University of Maryland *(2022–2024)*
 - **Faculty Advisory Committee**, University of Maryland *(2022–2024)*
 - **Philosophy Department Committee on Diversity, Equity, and Inclusion**,  
