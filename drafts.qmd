@@ -5,14 +5,14 @@ title-block-style: none
 ---
 
 [The structure of multidimensional concepts](https://philpapers.org/archive/CANTSO-17.pdf). (with Ilaria Canavotto, and Eric Pacuit)
-]
+
 
 *How do multidimensional concepts like healthy and democratic combine multiple dimensions into a single judgment? How best to 
 deploy tools from social choice theory to understand them?*
 
 
 [Temporal Symmetries of Inquiry](https://philpapers.org/rec/CARTSO-92). (with Nate Lauffer)
-]
+
 
 *Holding evidence for it fixed, whether a proposition is about the past or about the future does not matter to whether one is rationally permitted to inquire about it.* 
 
@@ -25,5 +25,6 @@ deploy tools from social choice theory to understand them?*
 ### Coming soon: two surveys on modality (with different perspectives)
 
 
-From Modal Logic to Modal Semantics. (commissioned for the Cambridge Handbook of Modality, Arregui, Hacquard and Ippolito eds.)
-Modality in Natural Language (with Maria Aloni, commissioned for the new Handbook of Modal Logic)
+*From Modal Logic to Modal Semantics.* (commissioned for the Cambridge Handbook of Modality, Arregui, Hacquard and Ippolito eds.)
+
+*Modality in Natural Language* (with Maria Aloni, commissioned for the new Handbook of Modal Logic)
